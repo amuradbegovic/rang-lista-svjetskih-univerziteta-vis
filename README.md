@@ -1,4 +1,4 @@
-Github repository za zadaću 2 na kursu Vjerovatnoća i statistika, 1. godina Bakalaureat studija, 2 semestar.
+Github repository za zadaću 2 na kursu Vjerovatnoća i statistika na Elektrotehničkom fakultetu Univerziteta u Sarajevu, 1. godina Bakalaureat studija, 2 semestar.
 
 TIM1 čine:
 - [Zlatan Ljutika](https://github.com/Ljut)
