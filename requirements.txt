@@ -5,3 +5,4 @@ statistics
 jupyter
 seaborn
 plotly
+pycountry_convert
