@@ -7,3 +7,4 @@ seaborn
 plotly
 pycountry_convert
 statsmodel
+scikit-learn
