@@ -5,3 +5,9 @@ statistics
 jupyter
 seaborn
 plotly
+pycountry-convert
+statsmodels
+scikit-learn
+ipython
+plotly
+scipy

@@ -1,0 +1,1743 @@
+name,classification
+University of Oxford,Public
+University of Cambridge,Public
+Imperial College London,Public
+ETH Zurich,Public
+Tsinghua University,Public
+Peking University,Public
+National University of Singapore,Public
+University of Toronto,Public
+UCL,Public
+The University of Tokyo,Public
+University of Edinburgh,Public
+Technical University of Munich,Public
+"Nanyang Technological University, Singapore",Public
+École Polytechnique Fédérale de Lausanne,Public
+University of Hong Kong,Public
+University of Melbourne,Public
+King’s College London,Public
+LMU Munich,Public
+Paris Sciences et Lettres – PSL Research University Paris,Public
+University of British Columbia,Public
+Shanghai Jiao Tong University,Public
+Fudan University,Public
+KU Leuven,Public
+London School of Economics and Political Science,Public
+Universität Heidelberg,Public
+Delft University of Technology,Public
+McGill University,Public
+Karolinska Institute,Public
+University of Manchester,Public
+Chinese University of Hong Kong,Public
+Monash University,Public
+Kyoto University,Public
+Zhejiang University,Public
+University of Science and Technology of China,Public
+Université Paris-Saclay,Public
+The University of Sydney,Public
+University of Amsterdam,Public
+Seoul National University,Public
+The Hong Kong University of Science and Technology,Public
+Wageningen University & Research,Public
+Australian National University,Public
+The University of Queensland,Public
+Institut Polytechnique de Paris,Public
+Nanjing University,Public
+Sorbonne University,Public
+Yonsei University (Seoul campus),Private
+Leiden University,Public
+University of Groningen,Public
+University of Zurich,Public
+University of Bristol,Public
+City University of Hong Kong,Public
+Korea Advanced Institute of Science and Technology (KAIST),Public
+UNSW Sydney,Public
+University of Glasgow,Public
+Hong Kong Polytechnic University,Public
+Humboldt University of Berlin,Public
+RWTH Aachen University,Public
+University of Bonn,Public
+Charité - Universitätsmedizin Berlin,Public
+Lomonosov Moscow State University,Public
+University of Tübingen,Public
+KTH Royal Institute of Technology,Public
+University of Southampton,Public
+Erasmus University Rotterdam,Public
+University of Birmingham,Public
+Free University of Berlin,Public
+University of Copenhagen,Public
+McMaster University,Public
+University of Sheffield,Public
+Lund University,Public
+University of Warwick,Public
+Aarhus University,Public
+University of Alberta,Public
+University of Adelaide,Public
+University of Göttingen,Public
+University of Montreal,Public
+Ghent University,Public
+University of Bern,Public
+University of Vienna,Public
+University of Helsinki,Public
+University of Basel,Public
+University of Massachusetts,Public
+Vrije Universiteit Amsterdam,Public
+Technical University of Denmark,Public
+University of Oslo,Public
+University of Freiburg,Public
+University of Leeds,Public
+University of Nottingham,Public
+Tohoku University,Public
+Trinity College Dublin,Private
+Queen Mary University of London,Public
+University of Hamburg,Public
+Technical University of Berlin,Public
+Maastricht University,Public
+Karlsruhe Institute of Technology,Public
+Radboud University Nijmegen,Public
+Uppsala University,Public
+University of Lausanne,Public
+The University of Western Australia,Public
+Sungkyunkwan University (SKKU),Public
+University of York,Public
+University of Technology Sydney,Public
+Pohang University of Science and Technology (POSTECH),Public
+University of Auckland,Public
+Sichuan University,Public
+University of Barcelona,Public
+National Taiwan University (NTU),Public
+Université Paris Cité,Public
+University of Bologna,Public
+Lancaster University,Public
+Huazhong University of Science and Technology,Public
+University of Waterloo,Public
+University of Cologne,Public
+University of Antwerp,Public
+TU Dresden,Public
+Wuhan University,Public
+University of Cape Town,Public
+Université Catholique de Louvain,Private
+Eindhoven University of Technology,Public
+Harbin Institute of Technology,Public
+University of Liverpool,Public
+Newcastle University,Public
+Scuola Normale Superiore di Pisa,Public
+Durham University,Public
+Osaka University,Public
+University of Würzburg,Public
+Beijing Normal University,Public
+University of Exeter,Public
+University of Ottawa,Public
+Macquarie University,Public
+Sapienza University of Rome,Public
+University of Geneva,Public
+University of Twente,Public
+Stockholm University,Public
+Tongji University,Public
+University of Mannheim,Public
+Chalmers University of Technology,Public
+Cardiff University,Public
+Tokyo Institute of Technology,Public
+University of Erlangen-Nuremberg,Public
+University of Macau,Public
+University of Münster,Public
+University of St Andrews,Public
+Ulm University,Public
+Queensland University of Technology,Public
+Ulsan National Institute of Science and Technology (UNIST),Public
+Aalborg University,Public
+Aalto University,Public
+University of Aberdeen,Public
+Abu Dhabi University,Public
+Autonomous University of Barcelona,Public
+University of Calgary,Public
+Curtin University,Public
+Friedrich Schiller University Jena,Public
+Goethe University Frankfurt,Public
+University of Gothenburg,Public
+Indian Institute of Science,Public
+King Fahd University of Petroleum and Minerals,Public
+Korea University,Public
+University of Leicester,Public
+Université Libre de Bruxelles,Public
+University of Luxembourg,Public
+Medical University of Graz,Public
+Medical University of Vienna,Public
+Moscow Institute of Physics and Technology (MIPT),Public
+Nagoya University,Public
+University of Newcastle,Public
+University of Padua,Public
+Politecnico di Milano,Public
+Pompeu Fabra University,Public
+University of Potsdam,Public
+Queen’s University Belfast,Public
+University of Reading,Public
+Sant’Anna School of Advanced Studies – Pisa,Public
+University of São Paulo,Public
+Southern University of Science and Technology (SUSTech),Public
+Sun Yat-sen University,Public
+University of Sussex,Public
+Swinburne University of Technology,Public
+Tel Aviv University,Public
+Tianjin University,Public
+Tilburg University,Public
+University College Dublin,Public
+Vrije Universiteit Brussel,Public
+Western University,Public
+University of Wollongong,Public
+University of Bath,Public
+Beijing Institute of Technology,Public
+University of Bergen,Public
+Deakin University,Public
+University of East Anglia,Public
+École Normale Supérieure de Lyon,Public
+Griffith University,Public
+Heinrich Heine University Düsseldorf,Public
+University of Hohenheim,Public
+Humanitas University,Private
+Johannes Gutenberg University of Mainz,Public
+Khalifa University,Public
+King Abdulaziz University,Public
+University of Konstanz,Public
+Kyung Hee University,Private
+Lappeenranta-Lahti University of Technology LUT,Public
+La Trobe University,Public
+Université Laval,Public
+Linköping University,Public
+Loughborough University,Public
+Macau University of Science and Technology,Private
+University of Malaya,Public
+Medical University of Innsbruck,Public
+Nankai University,Public
+University of Oulu,Public
+Qatar University,Public
+Queen’s University,Public
+RCSI University of Medicine and Health Sciences,Private
+RMIT University,Public
+Ruhr University Bochum,Public
+Sejong University,Public
+Semmelweis University,Public
+Simon Fraser University,Public
+South China University of Technology,Public
+University of Southern Denmark,Public
+University of South Florida,Public
+University of Stuttgart,Public
+University of Surrey,Public
+Università della Svizzera italiana,Public
+Swansea University,Public
+University of Tasmania,Public
+Technical University of Darmstadt,Public
+TU Wien,Public
+Vita-Salute San Raffaele University,Private
+Xi’an Jiaotong University,Public
+Beihang University,Public
+University of Bremen,Public
+Catholic University of the Sacred Heart,Private
+"China Medical University, Taiwan",Public
+Copenhagen Business School,Public
+Dalhousie University,Public
+University of Dundee,Public
+East China Normal University,Public
+University of Essex,Public
+Flinders University,Public
+University of Galway,Public
+Université Grenoble Alpes,Public
+Hanyang University,Public
+Hebrew University of Jerusalem,Public
+Hong Kong Baptist University,Public
+University of Innsbruck,Public
+University of Kiel,Public
+Kyushu University,Public
+University of Liège,Public
+Montpellier University,Public
+University of Navarra,Private
+Northwestern Polytechnical University,Public
+Norwegian University of Science and Technology,Public
+Oregon Health and Science University,Public
+University of Otago,Public
+University of Pavia,Public
+University of Rome II – Tor Vergata,Public
+"Royal Holloway, University of London",Public
+"St George’s, University of London",Public
+Sharif University of Technology,Public
+University of South Australia,Public
+Southeast University,Public
+Stellenbosch University,Public
+University of Strathclyde,Public
+Swedish University of Agricultural Sciences,Public
+Tampere University,Public
+University of Tartu,Public
+Universiti Teknologi Petronas,Public
+University of Turku,Public
+United Arab Emirates University,Public
+University College Cork,Public
+Western Sydney University,Public
+University of the Witwatersrand,Public
+Xiamen University,Public
+Aix-Marseille University,Public
+Amirkabir University of Technology,Public
+Autonomous University of Madrid,Public
+University of Bayreuth,Public
+University of Bordeaux,Public
+Brunel University London,Public
+University of Campinas,Public
+University of Canberra,Public
+Chongqing University,Public
+"City, University of London",Public
+Daegu Gyeongbuk Institute of Science and Technology (DGIST),Public
+Edith Cowan University,Public
+University of Electronic Science and Technology of China,Public
+University of Florence,Public
+Free University of Bozen-Bolzano,Public
+Hasselt University,Public
+Heriot-Watt University,Public
+Hokkaido University,Public
+Hunan University,Public
+James Cook University,Public
+Justus Liebig University Giessen,Public
+Koç University,Private
+Leibniz University Hannover,Public
+University of Manitoba,Public
+Middle East Technical University,Public
+University of Milan,Public
+University of Milan-Bicocca,Public
+Murdoch University,Public
+University of Naples Federico II,Public
+Peter the Great St Petersburg Polytechnic University,Public
+Sabancı University,Private
+University of St Gallen,Private
+University of Saskatchewan,Public
+University of Sharjah,Public
+Shenzhen University,Public
+Southern Medical University,Public
+University of Southern Queensland,Public
+Technion Israel Institute of Technology,Public
+University of Trento,Public
+University of Tsukuba,Public
+University of Victoria,Public
+York University,Public
+"Asia University, Taiwan",Public
+Aston University,Public
+Auckland University of Technology,Public
+Australian Catholic University,Private
+Bangor University,Public
+Bauman Moscow State Technical University,Public
+Bond University,Public
+Bournemouth University,Public
+University of Brescia,Public
+Universiti Brunei Darussalam,Public
+"University of California, Merced",Public
+Campus Bio-Medico University of Rome,Private
+University of Catania,Public
+Centrale Nantes,Public
+Charles Darwin University,Public
+Charles University,Public
+Chung-Ang University,Private
+Claude Bernard University Lyon 1,Public
+University of Coimbra,Public
+Constructor University Bremen,Private
+Dalian University of Technology,Public
+Dublin City University,Public
+École des Ponts ParisTech,Public
+Federal University of Toulouse Midi-Pyrénées,Public
+University of Fribourg,Public
+University of Genoa,Public
+"Goldsmiths, University of London",Public
+University of Greifswald,Public
+University of Guelph,Public
+Gwangju Institute of Science and Technology (GIST),Public
+HSE University,Public
+University of Hull,Public
+Imam Mohammad Ibn Saud Islamic University,Public
+IMT Atlantique,Public
+Institut Agro,Public
+Iran University of Science and Technology,Public
+University of Johannesburg,Public
+Johannes Kepler University of Linz,Public
+University of Jyväskylä,Public
+Universiti Kebangsaan Malaysia,Public
+University of Kent,Public
+King Saud University,Public
+University of Limerick,Public
+Lincoln University,Public
+University of Lisbon,Public
+University of Marburg,Public
+Maynooth University,Public
+University of Modena and Reggio Emilia,Public
+National Research Nuclear University MEPhI,Public
+National Taiwan University of Science and Technology (Taiwan Tech),Public
+National Tsing Hua University,Public
+National Yang Ming Chiao Tung University,Public
+University of Neuchâtel,Public
+University of Passau,Public
+University of Pisa,Public
+University of Plymouth,Public
+Polytechnic University of Turin,Public
+Pontificia Universidad Católica de Chile,Private
+University of Porto,Public
+University of Portsmouth,Public
+Prince Sultan University (PSU),Private
+Quaid-i-Azam University,Public
+Université du Québec,Public
+Royal Veterinary College,Public
+Universiti Sains Malaysia,Public
+SOAS University of London,Public
+University of Stirling,Public
+Sumy State University,Public
+Taipei Medical University,Private
+University of Tehran,Public
+Universiti Teknologi Malaysia,Public
+Tokyo Medical and Dental University (TMDU),Public
+TU Dortmund University,Public
+University of Turin,Public
+Umeå University,Public
+Universiti Utara Malaysia,Public
+University of Vaasa,Public
+Verona University,Public
+Victoria University,Public
+Victoria University of Wellington,Public
+University of Waikato,Public
+Zayed University,Public
+Aberystwyth University,Public
+Åbo Akademi University,Public
+Ajou University,Public
+Alfaisal University,Private
+American University of Beirut,Private
+Anglia Ruskin University (ARU),Public
+Anna University,Public
+University of L’Aquila,Public
+Babol Noshirvani University of Technology,Public
+Bar-Ilan University,Public
+Beirut Arab University,Private
+Ben-Gurion University of the Negev,Public
+University of Bradford,Public
+Brighton and Sussex Medical School,Public
+Ca’ Foscari University of Venice,Public
+University of Calabria,Public
+University of Canterbury,Public
+Carleton University,Public
+Central Queensland University,Public
+"China University of Petroleum, Beijing",Public
+Complutense University of Madrid,Public
+Concordia University,Public
+University of Côte d’Azur,Public
+University of Crete,Public
+University of Cyprus,Public
+Donghua University,Public
+University of Eastern Finland,Public
+Edinburgh Napier University,Public
+ENSTA Bretagne,Public
+University of Ferrara,Public
+University of Granada,Public
+University of Graz,Public
+Graz University of Technology,Public
+University of Greenwich,Public
+Hamburg University of Technology,Public
+University of Huddersfield,Public
+University of Iceland,Public
+Istanbul Technical University,Public
+Jamia Millia Islamia,Public
+Jinan University,Public
+Keele University,Public
+King Khalid University,Public
+University of Klagenfurt,Public
+University of KwaZulu-Natal,Public
+Kyungpook National University,Public
+Lebanese American University,Private
+Leuphana University of Lüneburg,Public
+University of Lincoln,Public
+Liverpool John Moores University,Public
+Mahatma Gandhi University,Public
+Manchester Metropolitan University,Public
+Massey University,Public
+Memorial University of Newfoundland,Public
+University of Messina,Public
+Middlesex University,Public
+University of Mons,Public
+Nantes Université,Public
+National Cheng Kung University (NCKU),Public
+National and Kapodistrian University of Athens,Public
+National Taiwan Normal University,Public
+National Yunlin University of Science and Technology,Public
+Nazarbayev University,Public
+University of Nebraska Medical Center,Public
+University of Nicosia,Private
+Northumbria University,Public
+Nottingham Trent University,Public
+NOVA University of Lisbon,Public
+Polytechnic University of Bari,Public
+University of Pretoria,Public
+Pusan National University,Public
+Universiti Putra Malaysia,Public
+Rovira i Virgili University,Public
+Rush University,Private
+University of Salerno,Public
+Sciences Po,Public
+Shanghai University,Public
+Shiraz University of Technology,Public
+Shoolini University of Biotechnology and Management Sciences,Private
+University of Siena,Public
+"Soochow University, China",Public
+Southern Cross University,Public
+University of the Sunshine Coast,Public
+University of Tabriz,Public
+Tabriz University of Medical Sciences,Public
+Taif University,Public
+Tomsk State University,Public
+University of Trieste,Public
+TU Braunschweig,Public
+UiT The Arctic University of Norway,Public
+University of Ulsan,Public
+University of Valencia,Public
+University of the West of England,Public
+University of Windsor,Public
+University of Wuppertal,Public
+Yangzhou University,Public
+Abdul Wali Khan University Mardan,Public
+Air University,Public
+The University of Aizu,Public
+Alagappa University,Public
+Aligarh Muslim University,Public
+Amedeo Avogadro University of Eastern Piedmont,Public
+American University of Sharjah,Private
+University of Aveiro,Public
+Babol University of Medical Sciences,Public
+Banaras Hindu University,Public
+University of Bari Aldo Moro,Public
+University of the Basque Country,Public
+University of Beira Interior,Public
+Bharathiar University,Public
+Bilkent University,Private
+Birmingham City University,Public
+Boğaziçi University,Public
+University of Campania Luigi Vanvitelli,Public
+Cankaya University,Private
+University of Cape Coast,Public
+Capital Medical University,Public
+Capital University of Science and Technology,Private
+The Catholic University of Korea,Private
+Chang Gung University,Public
+Chulalongkorn University,Public
+COMSATS University Islamabad,Public
+University of Córdoba,Public
+Coventry University,Public
+Cyprus University of Technology,Public
+University of Debrecen,Public
+De Montfort University,Public
+University of Derby,Public
+Duy Tan University,Private
+East China University of Science and Technology,Public
+Eastern Mediterranean University,Public
+École Centrale de Lyon,Public
+École des Mines de Saint-Étienne,Public
+École Nationale des Travaux Publics de l'État (ENTPE),Public
+Egypt-Japan University of Science and Technology (E-JUST),Public
+"University of Engineering and Technology, Taxila",Public
+Universidade Estadual Paulista (Unesp),Public
+Ewha Womans University,Private
+Federal University of Rio de Janeiro,Public
+Universidade Federal do Rio Grande do Sul,Public
+Federation University Australia,Public
+University of Foggia,Public
+Gabriele d‘Annunzio University,Public
+Glasgow Caledonian University,Public
+Government College University Faisalabad,Public
+Guangdong University of Technology,Public
+Hacettepe University,Public
+University of Haifa,Public
+University of Hail,Public
+Harokopio University of Athens,Public
+University of Hertfordshire,Public
+Hiroshima University,Public
+Imam Abdulrahman Bin Faisal University,Public
+Imam Khomeini International University,Public
+Indian Institute of Technology Guwahati,Public
+Indian Institute of Technology (Indian School of Mines) Dhanbad,Public
+Indian Institute of Technology Patna,Public
+University of Insubria,Public
+"International Institute of Information Technology, Hyderabad",Private
+Iran University of Medical Sciences,Public
+ISCTE-University Institute of Lisbon,Public
+Isfahan University of Technology,Public
+ITMO University,Public
+Jagiellonian University,Public
+Jamia Hamdard University,Public
+Jawaharlal Nehru University,Public
+Jiangsu University,Public
+Jönköping University,Public
+The University of Jordan,Public
+Jouf University,Public
+Juntendo University,Public
+University of Kaiserslautern,Public
+University of Kashan,Public
+Kashan University of Medical Sciences and Health Services,Public
+Keio University,Private
+KIIT University,Public
+King Saud bin Abdulaziz University for Health Sciences,Public
+Kobe University,Public
+Konkuk University,Private
+Kurdistan University of Medical Sciences,Public
+University of Lille,Public
+London South Bank University,Public
+University of Lorraine,Public
+Lviv Polytechnic National University,Public
+Mahidol University,Public
+Malaviya National Institute of Technology,Public
+Universiti Malaysia Pahang,Public
+Manipal Academy of Higher Education,Private
+Marche Polytechnic University,Public
+Masaryk University,Public
+Mashhad University of Medical Sciences,Public
+Mazandaran University of Medical Sciences,Public
+University of Minho,Public
+Monterrey Institute of Technology,Private
+University of Namur,Public
+Nanjing University of Aeronautics and Astronautics,Public
+Nanjing Forestry University,Public
+Nanjing Tech University,Public
+National Institute of Applied Sciences of Lyon (INSA Lyon),Public
+National University of Sciences and Technology,Public
+National University of Science and Technology (MISiS),Public
+National Sun Yat-Sen University,Public
+National Technical University of Athens,Public
+National Institute of Technology Rourkela,Public
+National Institute of Technology Silchar,Public
+Near East University,Private
+University of New Brunswick UNB,Public
+"Northeastern University, China",Public
+North-West University,Public
+Norwegian University of Life Sciences,Public
+Novosibirsk State University,Public
+Ontario Tech University,Public
+The Open University,Public
+Open University of Catalonia,Public
+Örebro University,Public
+Otto von Guericke University of Magdeburg,Public
+Oxford Brookes University,Public
+University of Palermo,Public
+Panjab University,Public
+University of Parma,Public
+Parthenope University of Naples,Public
+Universiti Pendidikan Sultan Idris,Public
+Universitat Politècnica de Catalunya,Public
+Polytechnic University of Valencia,Public
+Prince Sattam Bin Abdulaziz University,Public
+Princess Nourah bint Abdulrahman University,Public
+Qazvin University of Medical Sciences,Public
+Qingdao University,Public
+Universitat Ramon Llull,Private
+Reykjavík University,Public
+University of Rome III,Public
+Roskilde University,Public
+RUDN University,Public
+Saint-Petersburg Mining University,Public
+University of Salento,Public
+University of Sannio,Public
+University of Santiago de Compostela,Public
+University of Sassari,Public
+Saveetha Institute of Medical and Technical Sciences,Private
+Shahid Beheshti University of Medical Sciences,Public
+University of Siegen,Public
+South China Normal University,Public
+South Ural State University,Public
+SRUC (Scotland’s Rural College),Public
+University of Stavanger,Public
+Sultan Qaboos University,Public
+Sunway University,Private
+Tallinn University of Technology,Public
+Tehran University of Medical Sciences,Public
+Universiti Tenaga Nasional (UNITEN),Private
+Thapar Institute of Engineering and Technology,Private
+Ton Duc Thang University,Public
+Toronto Metropolitan University,Public
+University of Tuscia,Public
+University of Udine,Public
+Ulster University,Public
+Umm Al-Qura University,Public
+Paris Lodron Universität Salzburg,Public
+Urmia University of Medical Sciences,Public
+VIT University,Public
+University of Warsaw,Public
+University of the Western Cape,Public
+University of the West of Scotland,Public
+University of Wolverhampton,Public
+Wroclaw Medical University,Public
+Xi’an Jiaotong-Liverpool University,Public
+Xidian University,Public
+Yeungnam University,Public
+Zhejiang Normal University,Public
+Zhengzhou University,Public
+University of the Aegean,Public
+Ahvaz Jundishapur University of Medical Sciences (AJUMS),Public
+Al-Azhar University,Public
+University of Alcalá,Public
+Alexandria University,Public
+University of Algarve,Public
+American University in Cairo,Private
+Amity University,Private
+Amrita Vishwa Vidyapeetham,Private
+"University of the Andes, Colombia",Private
+Arak University of Medical Sciences,Public
+Aristotle University of Thessaloniki,Public
+Arts et Métiers,Public
+Aswan University,Public
+Athens University of Economics and Business,Public
+Bahçeşehir University,Private
+Bahria University,Public
+University of the Balearic Islands,Public
+University of Belgrade,Public
+University of Bergamo,Public
+"Birla Institute of Technology and Science, Pilani",Public
+BRAC University,Private
+Université de Bretagne Occidentale,Public
+University of Brighton,Public
+Bucharest University of Economic Studies,Public
+Cairo University,Public
+University of Camerino (Unicam),Public
+Carlos III University of Madrid,Public
+University of Castilla-La Mancha,Public
+Catholic University of Portugal,Private
+Changsha University of Science and Technology,Public
+Charles Sturt University,Public
+Institute of Chemical Technology,Public
+Chengdu University,Public
+Chiang Mai University,Public
+Chiba University,Public
+University of Chile,Public
+China University of Petroleum (East China),Public
+Chonnam National University,Public
+Chungnam National University,Public
+University of Clermont Auvergne,Public
+University of la Costa,Public
+Covenant University,Private
+CY Cergy Paris University,Public
+Czech University of Life Sciences Prague (CZU),Public
+Damietta University,Public
+University of Delhi,Public
+Delhi Technological University,Public
+University of Deusto,Private
+University of Dhaka,Public
+Eötvös Loránd University,Public
+Federal University of Minas Gerais,Public
+Universidade Federal de Santa Catarina,Public
+Universidade Federal de São Paulo (UNIFESP),Public
+Ferdowsi University of Mashhad,Public
+University of the Free State,Public
+Fuzhou University,Public
+University of Girona,Public
+University of Gloucestershire,Public
+Gorgan University of Agricultural Sciences and Natural Resources,Public
+Guangzhou University,Public
+Guangzhou Medical University,Public
+Guilan University of Medical Sciences,Public
+Harbin Engineering University,Public
+Hazara University Mansehra,Public
+University of Ibadan,Public
+Ilam University of Medical Sciences,Public
+"Indian Institute of Science Education and Research, Pune",Public
+Indian Institute of Technology Gandhinagar,Public
+University of Indonesia,Public
+Indraprastha Institute of Information Technology Delhi,Public
+Inha University,Public
+Universitat Internacional de Catalunya,Private
+"International Islamic University, Islamabad",Public
+Isfahan University of Medical Sciences,Public
+Islamia College Peshawar,Public
+University of Jaén,Public
+Jahangirnagar University,Public
+Jaume I University,Public
+Jawaharlal Nehru Technological University Anantapur (JNTUA),Public
+Jaypee University of Information Technology,Private
+Jazan University,Public
+Jeonbuk National University,Public
+Jiangnan University,Public
+Jordan University of Science and Technology,Public
+JSS Academy of Higher Education and Research,Private
+Kafrelsheikh University,Public
+Kalasalingam Academy of Research and Education,Public
+Kaohsiung Medical University,Public
+Kazan Federal University,Public
+King Faisal University,Public
+King Mongkut’s University of Technology Thonburi,Public
+Kingston University,Public
+K.N. Toosi University of Technology,Public
+Kore University of Enna,Public
+Kumamoto University,Public
+University of Kurdistan,Public
+Kyoto Prefectural University of Medicine,Public
+University of Lahore,Public
+Lahore University of Management Sciences,Private
+Lakehead University,Public
+Lebanese University,Public
+Leeds Beckett University,Public
+Lithuanian University of Health Sciences,Public
+University of Ljubljana,Public
+University of Lleida,Public
+Lovely Professional University,Private
+Makerere University,Public
+University of Malakand,Public
+University of Malta,Public
+University of Management and Technology,Public
+Mansoura University,Public
+Medical University of Lodz,Public
+University of Medicine and Pharmacy Carol Davila,Public
+University of Mohaghegh Ardabili,Public
+University of Murcia,Public
+Nanjing University of Information Science and Technology,Public
+Nanjing Medical University,Public
+Nanjing Normal University,Public
+National Autonomous University of Mexico,Public
+National Taipei University of Technology,Public
+"National Institute of Technology, Tiruchirappalli",Public
+North China Electric Power University,Public
+Northeast Normal University,Public
+University of Northern British Columbia (UNBC),Public
+North South University,Private
+Okayama University,Public
+University of Oviedo,Public
+Ozyegin University,Private
+Pablo de Olavide University,Public
+Palacký University Olomouc,Public
+Panthéon-Sorbonne University – Paris 1,Public
+University of Patras,Public
+UPES,Public
+Université de Poitiers,Public
+Pontifical Catholic University of Rio de Janeiro (PUC-Rio),Private
+University of the Punjab,Public
+Qassim University,Public
+Qom University of Medical Sciences,Public
+University of Regina,Public
+Reichman University,Private
+University of Rennes 1,Public
+Robert Gordon University,Public
+University of Roehampton,Public
+University of Salamanca,Public
+University of Salford,Public
+Savitribai Phule Pune University,Public
+Sechenov University,Public
+University of Seoul,Public
+University of Seville,Public
+Shahrekord University of Medical Sciences,Public
+Shantou University,Public
+Sheffield Hallam University,Public
+Shiraz University,Public
+Shiraz University of Medical Sciences,Public
+Shri Mata Vaishno Devi University,Public
+Siksha ‘O’ Anusandhan,Public
+Sogang University,Private
+Institute of Space Technology,Public
+University of Tabuk,Public
+Technical University of Madrid,Public
+"University of Technology, Iraq",Public
+Tokyo University of Agriculture and Technology,Public
+Tokyo Medical University,Public
+Tomsk Polytechnic University,Public
+University of Tours,Public
+University of Trás-os-Montes and Alto Douro,Public
+University of Tunis El Manar,Public
+Urmia University,Public
+"University of Veterinary and Animal Sciences, Lahore",Public
+University of Vic – Central University of Catalonia,Private
+University of Vigo,Public
+Vilnius University,Public
+Waseda University,Private
+Wenzhou University,Public
+Wenzhou Medical University,Public
+University of Westminster,Public
+Yıldız Technical University,Public
+Yokohama City University,Public
+Zagazig University,Public
+University of Zaragoza,Public
+ZHAW Zurich University of Applied Sciences,Public
+Zhejiang Gongshang University,Public
+University of A Coruña,Public
+"Adam Mickiewicz University, Poznań",Public
+AGH University of Krakow,Public
+Aichi Medical University,Private
+Ain Shams University,Public
+Akdeniz University,Public
+Al-Balqa Applied University,Public
+University of Alicante,Public
+University of Almería,Public
+An-Najah National University,Public
+University of Applied Sciences and Arts of Western Switzerland,Public
+Ateneo de Manila University,Private
+Universidad Autónoma de Chile,Private
+Azarbaijan Shahid Madani University,Public
+Babeş-Bolyai University,Public
+Bahauddin Zakariya University,Public
+Bangladesh Agricultural University (BAU),Public
+Bangladesh University of Engineering and Technology,Public
+Bartin University,Public
+University of Bedfordshire,Public
+Benha University,Public
+Beni-Suef University,Public
+Brno University of Technology,Public
+University of Bucharest,Public
+University of Cadiz,Public
+University of Calcutta,Public
+Canterbury Christ Church University,Public
+University of Central Lancashire,Public
+"University of Chemistry and Technology, Prague",Public
+China Pharmaceutical University,Public
+Chung Yuan Christian University,Private
+University of Colombo,Public
+Comenius University in Bratislava,Public
+Czech Technical University in Prague,Public
+Democritus University of Thrace,Public
+University of Desarrollo,Private
+Diego Portales University,Private
+Université Djillali Liabès de Sidi Bel-Abbès,Public
+Don State Technical University,Public
+Dr B.R. Ambedkar National Institute of Technology Jalandhar,Public
+Durban University of Technology,Public
+University of East London,Public
+Edge Hill University,Public
+"University of Engineering and Technology, Peshawar",Public
+University of Engineering & Technology (UET) Lahore,Public
+European University of Madrid,Private
+University of Extremadura,Public
+Fayoum University,Public
+Federal University of São Carlos,Public
+Federal University of Technology Akure,Public
+Financial University under the Government of the Russian Federation,Public
+Firat University,Public
+University of Franche-Comté,Public
+Fu Jen Catholic University,Private
+Fujian Agriculture and Forestry University,Public
+Fujita Health University,Private
+Gauhati University,Public
+Gdańsk University of Technology,Public
+University of Ghana,Public
+Gifu University,Public
+GLA University,Private
+University of Gujrat,Public
+Guru Ghasidas Vishwavidyalaya,Public
+Hakim Sabzevari University,Public
+Hamamatsu University School of Medicine,Public
+Huaqiao University,Public
+Icesi University,Private
+Ilmenau University of Technology,Public
+IMT Nord Europe,Public
+Indian Institute of Science Education and Research Kolkata,Public
+Indian Institute of Technology Ropar,Public
+Indian Institute of Technology Mandi,Public
+University of Ioannina,Public
+University of Isfahan,Public
+The Islamia University of Bahawalpur,Public
+Istanbul University,Public
+Istanbul University-Cerrahpaşa,Public
+Iuliu Haţieganu University of Medicine and Pharmacy Cluj-Napoca,Public
+Jadavpur University,Public
+University of Jeddah,Public
+Jimma University,Public
+Kanazawa University,Public
+Kansai Medical University,Private
+Karlstad University,Public
+Karnatak University Dharwad,Public
+Kerman University of Medical Sciences,Public
+Kharkiv National University of Radio Electronics,Public
+Kindai University,Private
+Kohat University of Science and Technology,Public
+University of Kragujevac,Public
+Kurume University,Public
+Kuwait University,Public
+Kwame Nkrumah University of Science and Technology,Public
+University of Lagos,Public
+University of La Laguna,Public
+University of Las Palmas de Gran Canaria,Public
+University of Latvia,Public
+University of Leoben,Public
+University of León,Public
+Lorestan University,Public
+Mae Fah Luang University,Public
+Maharishi Markandeshwar University (MMU),Private
+University of Malaga,Public
+Universiti Malaysia Sarawak (UNIMAS),Public
+University of Maragheh,Public
+University of Mazandaran,Public
+Medical University of Bialystok,Public
+Medical University of Gdańsk,Public
+Medical University of Warsaw,Public
+"Mehran University of Engineering and Technology, Jamshoro, Pakistan",Public
+Miguel Hernández University of Elche,Public
+Ming Chi University of Technology,Private
+Minia University,Public
+Mirpur University of Science and Technology,Public
+Muhimbili University of Health and Allied Sciences,Public
+Nagoya City University,Public
+Najran University,Public
+National Central University,Public
+National Chengchi University,Public
+National Chung Hsing University,Public
+National Institute of Technology Warangal,Public
+Necmettin Erbakan University,Public
+Nicolaus Copernicus University in Toruń,Public
+Niigata University,Public
+Nile University,Private
+Nippon Medical School,Private
+Northwest University,Private
+Óbuda University,Public
+"University of Occupational and Environmental Health, Japan",Public
+University of Pécs,Public
+University of Peradeniya,Public
+Universidad Peruana Cayetano Heredia,Private
+University of Peshawar,Public
+Plekhanov Russian University of Economics,Public
+PMAS Arid Agriculture University Rawalpindi,Public
+Pondicherry University,Public
+Pontifical Catholic University of Rio Grande do Sul (PUCRS),Private
+Poznan University of Medical Sciences,Public
+Public University of Navarre,Public
+University of Rajshahi,Public
+Razi University,Public
+Riga Technical University,Public
+Riphah International University,Private
+Sahand University of Technology,Public
+Universidad San Francisco de Quito,Private
+University of Sargodha,Public
+Semnan University,Public
+University of Sfax,Public
+​Shahid Chamran University of Ahvaz,Public
+Shahrekord University,Public
+Shahrood University of Technology,Public
+Shanghai Maritime University,Public
+Shinshu University,Public
+Siberian Federal University,Public
+Sidi Mohamed Ben Abdellah University,Public
+University of Social Welfare and Rehabilitation Sciences,Public
+University of South Africa,Public
+University of South Bohemia in České Budějovice,Public
+University of the South Pacific,Public
+University of South Wales,Public
+Staffordshire University,Public
+Suez University,Public
+Suez Canal University,Public
+SWPS University of Social Sciences and Humanities,Private
+Symbiosis International University,Private
+University of Szeged,Public
+Taibah University,Public
+Tallinn University,Public
+Tanta University,Public
+Technical University of Cartagena,Public
+Technological University Dublin,Public
+University of Technology of Troyes,Public
+Teesside University,Public
+TOBB University of Economics and Technology,Private
+Tokyo Metropolitan University,Public
+Toyohashi University of Technology (TUT),Public
+Toyota Technological Institute,Public
+Universiti Tunku Abdul Rahman (UTAR),Private
+Universiti Malaysia Terengganu (UMT),Public
+Ural Federal University,Public
+University of Urbino Carlo Bo,Public
+Urmia University of Technology,Public
+USAMV Cluj-Napoca,Public
+Wakayama Medical University,Public
+The University of the West Indies,Public
+University of West London,Public
+University of Winchester,Public
+University of Wrocław,Public
+Yazd University,Public
+University of Zagreb,Public
+Zewail City of Science and Technology,Public
+Zhejiang University of Finance and Economics,Public
+University of Žilina,Public
+Acharya Nagarjuna University,Public
+Adolfo Ibáñez University,Private
+"The University of Agriculture, Peshawar",Public
+Universitas Airlangga,Public
+Al-Farabi Kazakh National University,Public
+Allameh Tabataba ’i University,Public
+Al-Nahrain University,Public
+University of Al-Qadisiyah,Public
+Anadolu University,Public
+"University of the Andes, Chile",Public
+University of Antofagasta,Public
+University of Antioquia,Public
+"Arab Academy for Science, Technology and Maritime Transport",Public
+Ariel University,Public
+Assiut University,Public
+Atatürk University,Public
+Atılım University,Private
+Austral University of Chile,Private
+Autonomous University of Sinaloa,Public
+University of Babylon,Public
+Banasthali University,Private
+Bandung Institute of Technology (ITB),Public
+Bayero University,Public
+Belarusian State University,Public
+Bezmiâlem Vakif University,Private
+BINUS University,Private
+University of Botswana,Public
+Botswana International University of Science and Technology (BIUST),Public
+Instituto Politécnico de Bragança,Public
+University of Brasília,Public
+The British University in Egypt,Private
+B. S. Abdur Rahman Crescent Institute of Science and Technology,Private
+Bu-Ali Sina University,Public
+Budapest University of Technology and Economics,Public
+University of Burgos,Public
+Cardiff Metropolitan University,Public
+Universidad de Cartagena,Public
+University of Carthage,Public
+Universidad Católica San Antonio de Murcia (UCAM),Private
+Chang Gung University of Science and Technology,Private
+University of Chester,Public
+Chosun University,Public
+Christ University Bengaluru India,Private
+Chungbuk National University,Public
+Chung Shan Medical University,Private
+Cochin University of Science and Technology,Public
+University of Concepción,Public
+University of Costa Rica,Public
+Cukurova University,Public
+Del Rosario University,Public
+University of Diyala,Public
+Dokuz Eylül University,Public
+Dow University of Health Sciences,Public
+Duzce University,Public
+Universidade Eduardo Mondlane,Public
+"University of Education, Lahore",Public
+Ege University,Public
+Ehime University,Public
+The University of Electro-Communications,Public
+Erciyes University,Public
+Escuela Superior Politécnica del Litoral,Public
+Universidade do Estado do Rio de Janeiro (UERJ),Public
+Far Eastern Federal University,Public
+Universidade Federal do ABC (UFABC),Public
+Universidade Federal da Bahia,Public
+Universidade Federal do Ceará (UFC),Public
+Federal University of Espírito Santo,Public
+Federal University of Goiás,Public
+Federal University of Lavras,Public
+Universidade Federal do Paraná (UFPR),Public
+Federal University of Pernambuco,Public
+Federal University of Rio Grande do Norte (UFRN),Public
+Federal University of Santa Maria,Public
+Federal University of Uberlândia,Public
+Federal University of Viçosa,Public
+Federico Santa María Technical University,Public
+Feng Chia University,Private
+Ferhat Abbas Sétif University 1,Public
+University of La Frontera,Public
+Universitas Gadjah Mada,Public
+Gazi University,Public
+University of Gdańsk,Public
+Gebze Technical University,Public
+"George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures",Public
+German Jordanian University,Public
+Government College University Lahore,Public
+University of Guilan,Public
+Gunma University,Public
+Guru Jambheshwar University of Science and Technology,Public
+Gyeongsang National University,Public
+Hallym University,Public
+Halmstad University,Public
+The Hashemite University,Public
+Université Hassan II de Casablanca,Public
+Université Polytechnique Hauts-de-France,Public
+Helwan University,Public
+University of Hormozgan,Public
+University of Hradec Králové,Public
+Hungarian University of Agriculture and Life Sciences,Public
+Hyogo Medical University,Public
+Ibn Tofaïl University,Public
+Ilam University,Public
+Ilia State University,Public
+University of Ilorin,Public
+Immanuel Kant Baltic Federal University,Public
+Incheon National University,Public
+Indian Institute of Science Education and Research Bhopal,Public
+IPB University,Public
+I-Shou University,Private
+Istanbul Bilgi University,Private
+Istanbul Medeniyet University,Public
+Ivan Franko National University of Lviv,Public
+Izmir Institute of Technology,Public
+Jeju National University,Public
+Jiangsu Normal University,Public
+The Jikei University School of Medicine,Private
+The John Paul II Catholic University of Lublin,Private
+Kagawa University,Public
+Kagoshima University,Public
+Kangwon National University,Public
+Karabük University,Public
+Karunya Institute of Technology and Sciences,Private
+Kaunas University of Technology,Public
+Kharazmi University,Public
+Kharkiv Aviation Institute,Public
+Khon Kaen University,Public
+Khulna University,Public
+King Mongkut's University of Technology North Bangkok,Public
+Kitasato University,Private
+KL University,Private
+Kyoto Institute of Technology,Public
+Kyushu Institute of Technology (Kyutech),Public
+University of Lethbridge,Public
+Lodz University of Technology,Public
+Universidad Loyola,Private
+"Lumière University, Lyon 2",Public
+Universidade Lusófona,Private
+Universiti Malaysia Perlis,Public
+Manipal University Jaipur,Private
+University of Manouba,Public
+University of Maribor,Public
+University of Marrakech Cadi Ayyad,Public
+University of Mauritius,Public
+Medical University of Lublin,Public
+Medical University of Silesia in Katowice,Public
+Medical University of Sofia,Public
+University of Medicine and Pharmacy of Craiova,Public
+Mendel University in Brno,Public
+Metropolitan Autonomous University,Public
+Mie University,Public
+Mohammed V University of Rabat,Public
+University of Monastir,Public
+Moscow Aviation Institute,Public
+Moscow Power Engineering Institute,Public
+Multimedia University,Private
+Mutah University,Public
+Nagaoka University of Technology,Public
+Nagasaki University,Public
+Nagoya Institute of Technology,Public
+University of Nairobi,Public
+University of Namibia,Public
+National Changhua University of Education,Public
+National Chin-Yi University of Technology,Public
+National Chung Cheng University,Public
+National University of Colombia,Public
+National University of Distance Education (UNED),Public
+National Dong Hwa University,Public
+National Institute of Technology Srinagar,Public
+National Kaohsiung University of Science and Technology,Public
+National Research University of Electronic Technology (MIET),Public
+National Taiwan Ocean University,Public
+National Technical University Kharkiv Polytechnic Institute,Public
+National Technical University of Ukraine – Igor Sikorsky Kyiv Polytechnic Institute,Public
+University of Nigeria Nsukka,Public
+Ochanomizu University,Public
+Oles Honchar Dnipro National University,Public
+Opole University of Technology,Public
+University of Oradea,Public
+Osaka Metropolitan University,Public
+Osmania University,Public
+Paris Nanterre University,Public
+University of Pau and Pays de l’Adour,Public
+Pavol Jozef Šafárik University in Košice,Public
+Persian Gulf University,Public
+University of the Philippines,Public
+Pirogov Russian National Research Medical University,Public
+Polytechnic Institute of Porto,Public
+Pontifical Catholic University of Peru,Private
+Pontifical Catholic University of Valparaíso,Private
+Pontifical Javeriana University,Private
+Pontifícia Universidade Católica do Paraná,Private
+Port Said University,Public
+Poznań University of Life Sciences,Public
+Poznan University of Technology,Public
+Prince of Songkla University,Public
+University of Puerto Rico,Public
+Pukyong National University,Public
+University of Qom,Public
+University Rey Juan Carlos,Public
+Rikkyo University,Private
+Ritsumeikan University,Private
+Université Saint-Joseph de Beyrouth,Private
+Saitama Medical University,Private
+Sakarya University,Public
+Samara National Research University (Samara University),Public
+Sapporo Medical University,Public
+SASTRA University,Private
+Sathyabama Institute of Science and Technology,Private
+Universitas Sebelas Maret,Public
+Selçuk University,Public
+Semnan University of Medical Sciences and Health Services,Public
+Seoul National University of Science and Technology (SeoulTech),Public
+University of La Serena,Public
+Shahid Bahonar University of Kerman,Public
+Shahid Sadoughi University of Medical Sciences,Public
+Shahjalal University of Science and Technology,Public
+University of Shanghai for Science and Technology,Public
+Shibaura Institute of Technology,Public
+Shiga University of Medical Science,Public
+Showa University,Private
+Silesian University of Technology,Public
+Université de Skikda,Public
+Slovak University of Agriculture in Nitra,Public
+Sohag University,Public
+Soonchunhyang University,Public
+Soongsil University,Private
+Université Sorbonne Nouvelle,Public
+University of Sousse,Public
+University of South China,Public
+Southern Federal University,Public
+South Valley University,Public
+Southwest Petroleum University,Public
+University of Split,Public
+Sri Venkateswara University,Public
+SRM Institute of Science and Technology,Private
+Ştefan cel Mare University of Suceava,Public
+St Marianna University School of Medicine,Private
+St Petersburg Electrotechnical University (LETI),Public
+Universiti Sultan Zainal Abidin,Public
+University of Sunderland,Public
+Suranaree University of Technology,Public
+Universitas Syiah Kuala,Public
+University of Talca,Public
+Tamkang University,Private
+University of Tarapacá,Public
+Taras Shevchenko National University of Kyiv,Public
+Technical University of Cluj-Napoca,Public
+Technical University of Crete,Public
+Technical University of Košice,Public
+University of Technology of Compiègne,Public
+Universiti Teknikal Malaysia Melaka,Public
+Institut Teknologi Sepuluh Nopember,Public
+University of Texas Rio Grande Valley,Public
+Tezpur University,Public
+Thammasat University,Public
+Thiagarajar College of Engineering,Public
+Toho University,Public
+Tokai University,Public
+Tokushima University,Public
+Tokyo University of Marine Science and Technology,Public
+Tokyo University of Science,Public
+Tomas Bata University in Zlín,Public
+University of Toyama,Public
+Transilvania University of Brașov,Public
+Tribhuvan University,Public
+Tunghai University,Private
+University of Tunis,Public
+Tzu Chi University,Private
+UNIR – International University of La Rioja,Private
+Unisinos University,Private
+Universiti Tun Hussein Onn Malaysia (UTHM),Public
+University of Valladolid,Public
+Veltech University,Private
+University of Venda,Public
+"Vietnam National University, Hanoi",Public
+Vilnius Gediminas Technical University (Vilnius Tech),Public
+"Visvesvaraya National Institute of Technology, Nagpur",Public
+V.N. Karazin Kharkiv National University,Public
+Volgograd State University,Public
+VSB - Technical University of Ostrava,Public
+Vytautas Magnus University,Public
+Walailak University,Public
+Warsaw University of Life Sciences – SGGW,Public
+Warsaw University of Technology,Public
+University of West Bohemia,Public
+University of Western Macedonia,Public
+West University of Timişoara,Public
+Wrocław University of Environmental and Life Sciences,Public
+Wrocław University of Science and Technology,Public
+Wuhan Textile University,Public
+Xiangtan University,Public
+Xuzhou Medical University,Public
+Yamagata University,Public
+Yamaguchi University,Public
+University of Yamanashi,Public
+Yarmouk University,Public
+Yasouj University,Public
+Yokohama National University,Public
+Yuan Ze University,Public
+Yuriy Fedkovych Chernivtsi National University,Public
+University of Zambia,Public
+University of Zanjan,Public
+Zanjan University of Medical Sciences,Public
+Zhejiang Chinese Medical University,Public
+University of Zimbabwe,Public
+Université 8 Mai 1945 Guelma,Public
+University Abdelhamid Ibn Badis Mostaganem,Public
+Abdelmalek Essaâdi University,Public
+University of Abou Bekr Belkaïd Tlemcen,Public
+Acıbadem University,Private
+Afe Babalola University,Private
+Akita University,Public
+Aksaray University,Public
+Alexandru Ioan Cuza University,Public
+Altai State University,Public
+Alzahra University,Public
+University of Anbar,Public
+Universitas Andalas,Public
+"University of the Andes, Venezuela",Public
+Andhra University,Public
+Universidad Andrés Bello (UNAB),Private
+Ankara University,Public
+Ankara Yildirim Beyazit University,Public
+Annamalai University,Public
+Antonio Nariño University,Private
+Aoyama Gakuin University,Private
+Arak University,Public
+Universidad Autónoma de Ciudad Juárez,Public
+Universidad Autónoma de Coahuila,Public
+Universidad Autónoma del Estado de Hidalgo,Public
+Universidad Autónoma del Estado de Mexico (UAEMex),Public
+Universidad Autónoma del Estado de Morelos,Public
+Universidad Autónoma de Nuevo León (UANL),Public
+Universidad Autónoma de Querétaro,Public
+Universidad Autónoma de Yucatán,Public
+Autonomous University of Baja California,Public
+Badji Mokhtar University – Annaba,Public
+University of Baghdad,Public
+Baku State University,Public
+Başkent University,Private
+University of Basrah,Public
+University of Batna 2,Public
+University of Béjaïa,Public
+Belgorod State National Research University,Public
+Benemérita Universidad Autónoma de Puebla,Public
+University of Benin,Public
+Bernardo O’Higgins University,Private
+Bharath Institute of Higher Education and Research,Private
+Bharati Vidyapeeth University,Private
+Bialystok University of Technology,Public
+Bilecik Şeyh Edebali University,Public
+University of Bío-Bío,Public
+University of Birjand,Public
+University of Biskra,Public
+Blida 1 University,Public
+Bolu Abant Izzet Baysal University,Public
+Bozok University,Public
+University of Brawijaya,Public
+Burapha University,Public
+Bursa Technical University,Public
+Bursa Uludağ University,Public
+University of Caldas,Public
+Çankırı Karatekin University,Public
+Catholic University of Brasília,Private
+Catholic University of the North,Private
+Universidad Católica del Maule,Public
+Universidad Católica de la Santísima Concepción,Private
+University of Caxias do Sul,Public
+Ceará State University,Public
+Manisa Celal Bayar University,Public
+Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET-RJ),Public
+CES University,Private
+Chaoyang University of Technology,Public
+Chelyabinsk State University,Public
+Chiba Institute of Technology,Public
+Chinese Culture University,Private
+Université Chouaïb Doukkali,Public
+Chubu University,Public
+Chuo University,Private
+University of Colima,Public
+Comillas Pontifical University,Private
+Communication University of China,Public
+Cracow University of Technology,Public
+University of Craiova,Public
+Damghan University,Public
+University of Dar es Salaam,Public
+De La Salle University,Private
+University for Development Studies,Public
+Dicle University,Public
+Diponegoro University,Public
+Dokkyo Medical University,Private
+Doshisha University,Private
+Dumlupinar University,Public
+Dunarea de Jos University of Galati,Public
+EAFIT University,Private
+El Bosque University,Private
+Erzincan Binali Yıldırım University,Public
+Escuela Politécnica Nacional,Public
+Eskişehir Osmangazi University,Public
+Universidade do Estado de Santa Catarina,Public
+Universidade Estadual do Norte Fluminense Darcy Ribeiro,Public
+Universidade Estadual de Maringá,Public
+Universidade Estadual do Oeste do Paraná (Unioeste),Public
+"Federal University of Agriculture, Abeokuta",Public
+Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA),Public
+Federal University of Itajubá,Public
+Universidade Federal de Juiz de Fora,Public
+Universidade Federal do Maranhão (UFMA),Public
+Federal University of Mato Grosso do Sul,Public
+Universidade Federal de Ouro Preto (UFOP),Public
+Federal University of Pará,Public
+Federal Rural University of Pernambuco,Public
+Universidade Federal Rural do Semi-Arido,Public
+Universidade Federal de Sergipe,Public
+Fluminense Federal University,Public
+University of Fortaleza (UNIFOR),Private
+Université Frères Mentouri Constantine 1,Public
+Universidad de las Fuerzas Armadas – ESPE,Public
+University of Fukui,Public
+Fukuoka University,Public
+Université de Gabès,Public
+Gaziantep University,Public
+Georgian Technical University,Public
+German University in Cairo,Private
+Gheorghe Asachi Technical University of Iaşi,Public
+GITAM University,Private
+Goa University,Public
+Grigore T. Popa University of Medicine and Pharmacy,Public
+University of Guadalajara,Public
+University of Guanajuato,Public
+Gubkin Russian State University of Oil and Gas,Public
+Hanoi University of Science and Technology,Public
+Hasanuddin University,Public
+Université Hassan 1er,Public
+Hassiba Benbouali University of Chlef,Public
+University of Havana,Public
+Hellenic Open University,Public
+Herzen State Pedagogical University of Russia,Public
+Hindustan Institute of Technology and Science,Private
+Hitit University,Public
+Hosei University,Private
+Hue University,Public
+University of Hyogo,Public
+Ibaraki University,Public
+Universidad Industrial de Santander (UIS),Public
+Industrial University of Tyumen,Public
+Inönü University,Public
+Instituto Politécnico Nacional (IPN),Public
+International Hellenic University,Public
+Irkutsk National Research Technical University,Public
+Irkutsk State University,Public
+Islamic University of Indonesia,Private
+Istanbul Aydın University,Private
+Istanbul Medipol University,Private
+Ivane Javakhishvili Tbilisi State University,Public
+Ivanovo State University of Chemistry and Technology,Public
+Iwate University,Public
+Izmir University of Economics,Private
+Jan Evangelista Purkyně University,Public
+Jan Kochanowski University in Kielce,Public
+Jean Moulin University – Lyon 3,Public
+Jember University,Public
+Jianghan University,Public
+University of Jijel,Public
+Kanagawa University,Public
+Kanazawa Medical University,Private
+Kansai University,Public
+University of Karachi,Public
+Karadeniz Technical University,Public
+Université Kasdi Merbah Ouargla,Public
+Kasetsart University,Public
+Kastamonu University,Public
+Kazan National Research Technical University,Public
+Kazan National Research Technological University,Public
+Kazan State Medical University,Public
+University of Kelaniya,Public
+Kemerovo State University,Public
+University of Kerbala,Public
+King Mongkut’s Institute of Technology Ladkrabang,Public
+Kirikkale University,Public
+Kırşehir Ahi Evran University,Public
+Kocaeli University,Public
+Kochi University,Public
+Kochi University of Technology,Public
+Kogakuin University,Private
+Kookmin University,Public
+Universiti Kuala Lumpur,Public
+University of Kufa,Public
+Kwansei Gakuin University,Private
+Kyoto Sangyo University,Private
+Ladoke Akintola University of Technology,Public
+University of Laghouat,Public
+Lagos State University,Public
+Lahore College for Women University (LCWU),Public
+University of Lampung,Public
+Latvia University of Life Sciences and Technologies,Public
+University of Life Sciences in Lublin,Public
+L.N. Gumilyov Eurasian National University,Public
+Lobachevsky State University of Nizhni Novgorod,Public
+University of Łódź,Public
+Londrina State University,Public
+University of Los Lagos,Public
+Lucian Blaga University of Sibiu,Public
+University of Lucknow,Public
+University of Macerata (UNIMC),Public
+Mackenzie Presbyterian University,Private
+Mahasarakham University,Public
+Universiti Malaysia Kelantan,Public
+Maria Curie-Skłodowska University (UMCS),Public
+Marmara University,Public
+University of Mascara,Public
+Matej Bel University,Public
+Universidad Mayor,Private
+Meiji University,Public
+Meijo University,Private
+Mendeleev University of Chemical Technology,Public
+M’Hamed Bougara University of Boumerdès,Public
+Middle Technical University,Public
+Ming Chuan University,Private
+MIREA - Russian Technological University,Public
+University of Miskolc,Public
+University of Miyazaki,Public
+University Mohamed Boudiaf of M’Sila,Public
+Université Mohammed Premier,Public
+University of Montenegro,Public
+Moscow Polytechnic University,Public
+Moscow State University of Civil Engineering,Public
+University of Mosul,Public
+Moulay Ismail University,Public
+Université Mouloud Mammeri de Tizi-Ouzou,Public
+Muroran Institute of Technology,Public
+Mustansiriyah University,Public
+University of Mysore,Public
+Universidad Nacional del Litoral,Public
+Nara Women’s University,Public
+Naresuan University,Public
+National Aviation University,Public
+National Chiayi University,Public
+National Chi Nan University,Public
+National University of Córdoba,Public
+National University of Costa Rica,Public
+National Formosa University,Public
+National Ilan University,Public
+National University of Kaohsiung,Public
+National University of Life and Environmental Sciences of Ukraine,Public
+National University of Medical Sciences (NUMS),Public
+National Research Saratov State University,Public
+National University of San Martín,Public
+National Taichung University of Science and Technology,Public
+National Taipei University,Public
+National United University,Public
+NED University of Engineering and Technology,Public
+Universitas Negeri Surabaya,Public
+Nizhny Novgorod State Technical University,Public
+Nnamdi Azikiwe University,Public
+North-Caucasus Federal University,Public
+"University of the North, Colombia",Public
+North-Eastern Federal University,Public
+Northern (Arctic) Federal University named after M.V. Lomonosov,Public
+North-Western State Medical University named after I.I. Mechnikov,Public
+Nosov Magnitogorsk State Technical University,Public
+Universidade Nove de Julho (Uninove),Private
+University of Novi Sad,Public
+Novosibirsk State Technical University,Public
+Nueva Granada Military University,Public
+Obafemi Awolowo University,Public
+Ogarev Mordovia State University,Public
+Oita University,Public
+Niğde Ömer Halisdemir University,Public
+Omsk State Technical University,Public
+Ondokuz Mayis University,Public
+Oran 1 University,Public
+Ordu University,Public
+Osaka Institute of Technology,Public
+Osaka Medical and Pharmaceutical University,Private
+University of Ostrava,Public
+Ovidius University of Constanța,Public
+Universitas Padjadjaran,Public
+Pamukkale University,Public
+Universidad Panamericana (UP),Private
+University of Pannonia,Public
+University of Pardubice,Public
+Pavlov First Saint Petersburg State Medical University,Public
+Payame Noor University,Public
+Pedagogical and Technological University of Colombia,Public
+University of the Peloponnese,Public
+Universitas Pendidikan Indonesia,Public
+Penza State University,Public
+Perm National Research Polytechnic University,Public
+Perm State University,Public
+University of Pernambuco,Public
+Universidad Peruana de Ciencias Aplicadas (UPC),Private
+University of Phayao,Public
+Universidad Politécnica Salesiana,Private
+Polytechnic University of Bucharest,Public
+Polytechnic University of Timişoara,Public
+Pontifical Catholic University of Minas Gerais,Private
+Universidad Pontificia Bolivariana (UPB),Private
+Pontificia Universidad Católica del Ecuador,Private
+University of Port Harcourt,Public
+Prague University of Economics and Business,Public
+University of Primorska,Public
+University of Prishtina,Public
+Privolzhsky Research Medical University,Public
+PSG College of Technology,Private
+Recep Tayyip Erdoğan University,Public
+REVA University,Private
+Riga Stradiņš University,Public
+University of Rijeka,Public
+Russian Presidential Academy of National Economy and Public Administration,Public
+Russian State University for the Humanities,Public
+R V College of Engineering,Private
+Ryukoku University,Private
+University of the Ryukyus,Public
+Rzeszów University of Technology,Public
+University of La Sabana,Private
+Saga University,Public
+Saitama University,Public
+Samara State Technical University,Public
+San Sebastián University,Private
+"University of Santiago, Chile (USACH)",Public
+University of Santo Tomas,Private
+University of Sarajevo,Public
+Saratov State Medical University,Public
+Satbayev University,Public
+University of Sciences and Technology Houari Boumediene,Public
+University of Science and Technology of Oran Mohamed-Boudiaf,Public
+SGH Warsaw School of Economics,Public
+Shahed University,Public
+Shimane University,Public
+Shizuoka University,Public
+University of Shizuoka,Public
+Reshetnev Siberian State University of Science and Technology,Public
+Siberian State Medical University,Public
+Sichuan University of Science and Engineering,Public
+University of Silesia in Katowice,Public
+Silpakorn University,Public
+University of Sistan and Baluchestan,Public
+Sivas Cumhuriyet University,Public
+Slovak University of Technology in Bratislava,Public
+Sofia University,Public
+University of Sonora,Public
+Sophia University,Private
+Southwest State University,Public
+University of Sri Jayewardenepura,Public
+Srinakharinwirot University,Public
+Universitas Sriwijaya,Public
+Saints Cyril and Methodius University in Skopje,Public
+State University of Bahia,Public
+State University of Malang,Public
+State University of Ponta Grossa,Public
+State University of Santa Cruz,Public
+Süleyman Demirel University,Public
+Université Sultan Moulay Slimane,Public
+Universitas Sumatera Utara,Public
+Széchenyi István University,Public
+Tamil Nadu Agricultural University,Public
+Technical University of Liberec,Public
+Technical University of Loja,Public
+Technical University of Sofia,Public
+Technological University of Pereira,Public
+Universidade Tecnológica Federal do Paraná (UTFPR),Public
+Teikyo University,Private
+Universiti Teknologi MARA,Public
+Telkom University,Public
+Temuco Catholic University,Private
+Tokat Gaziosmanpaşa University,Public
+Tokyo University of Agriculture,Public
+Tokyo City University,Public
+Tokyo Denki University,Public
+Tomsk State University of Control Systems and Radioelectronics,Public
+Tottori University,Public
+Toyama Prefectural University,Public
+Toyo University,Public
+Tula State University,Public
+Ufa University of Science and Technology,Public
+Ufa State Petroleum Technological University,Public
+Universiti Malaysia Sabah (UMS),Public
+Uşak University,Public
+Utsunomiya University,Public
+Uzhhorod National University,Public
+Universidad del Valle,Public
+University of Valparaíso,Public
+Van Yüzüncü Yil University,Public
+Instituto Politécnico de Viana do Castelo,Public
+Vietnam National University (Ho Chi Minh City),Public
+"Vignan’s Foundation for Science, Technology and Research",Private
+V.I. Vernadsky Crimean Federal University (Vernadsky CFU),Public
+Volgograd State Technical University,Public
+Voronezh State University,Public
+Voronezh State Technical University,Public
+University of Warmia and Mazury in Olsztyn,Public
+University of West Attica,Public
+Yanshan University,Public
+Yeditepe University,Private
+Yerevan State University,Public
+Yogyakarta State University,Public
+Zonguldak Bülent Ecevit University,Public
